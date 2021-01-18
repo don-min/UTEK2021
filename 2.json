@@ -1,0 +1,2436 @@
+{
+    "Nodes": [
+        {
+            "Name": "Finch",
+            "Accessible": true,
+            "Coordinates": [
+                101,
+                105
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Queen",
+                    "Distance": 5
+                },
+                {
+                    "Name": "St. George",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Eglinton West",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Yorkdale",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Woodbine",
+                    "Distance": 2
+                }
+            ]
+        },
+        {
+            "Name": "North York Centre",
+            "Accessible": true,
+            "Coordinates": [
+                106,
+                191
+            ],
+            "Neighbours": [
+                {
+                    "Name": "St. Clair",
+                    "Distance": 1
+                },
+                {
+                    "Name": "College",
+                    "Distance": 9
+                },
+                {
+                    "Name": "King",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Kipling",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Lansdowne",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Bay",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Midland",
+                    "Distance": 10
+                }
+            ]
+        },
+        {
+            "Name": "Sheppard-Yonge",
+            "Accessible": false,
+            "Coordinates": [
+                46,
+                85
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Dundas",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Downsview",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Lansdowne",
+                    "Distance": 6
+                },
+                {
+                    "Name": "St. Clair West",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Dufferin",
+                    "Distance": 7
+                },
+                {
+                    "Name": "St. George",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Yonge",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Broadview",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Coxwell",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Bayview",
+                    "Distance": 1
+                }
+            ]
+        },
+        {
+            "Name": "York Mills",
+            "Accessible": true,
+            "Coordinates": [
+                178,
+                28
+            ],
+            "Neighbours": [
+                {
+                    "Name": "High Park",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Victoria Park",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Bessarion",
+                    "Distance": 3
+                }
+            ]
+        },
+        {
+            "Name": "Lawrence",
+            "Accessible": true,
+            "Coordinates": [
+                158,
+                113
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Wilson",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Ossington",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Bay",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Kennedy",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Don Mills",
+                    "Distance": 7
+                }
+            ]
+        },
+        {
+            "Name": "Eglinton",
+            "Accessible": true,
+            "Coordinates": [
+                112,
+                28
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Rosedale",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Dupont",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Greenwood",
+                    "Distance": 4
+                }
+            ]
+        },
+        {
+            "Name": "Davisville",
+            "Accessible": true,
+            "Coordinates": [
+                34,
+                63
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Summerhill",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Osgoode",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Old Mill",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Donlands",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "St. Clair",
+            "Accessible": true,
+            "Coordinates": [
+                134,
+                86
+            ],
+            "Neighbours": [
+                {
+                    "Name": "North York Centre",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Dundas",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "Summerhill",
+            "Accessible": true,
+            "Coordinates": [
+                95,
+                89
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Davisville",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Union",
+                    "Distance": 7
+                },
+                {
+                    "Name": "St. Andrew",
+                    "Distance": 5
+                },
+                {
+                    "Name": "St. Patrick",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Warden",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Bessarion",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Don Mills",
+                    "Distance": 10
+                }
+            ]
+        },
+        {
+            "Name": "Rosedale",
+            "Accessible": false,
+            "Coordinates": [
+                32,
+                6
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Eglinton",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Dundas",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Museum",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Greenwood",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Midland",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Don Mills",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "Bloor",
+            "Accessible": false,
+            "Coordinates": [
+                18,
+                35
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Queen",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Bathurst",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Midland",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Don Mills",
+                    "Distance": 10
+                }
+            ]
+        },
+        {
+            "Name": "Wellesley",
+            "Accessible": false,
+            "Coordinates": [
+                152,
+                75
+            ],
+            "Neighbours": [
+                {
+                    "Name": "College",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Union",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Main Street",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Kennedy",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Ellesmere",
+                    "Distance": 10
+                }
+            ]
+        },
+        {
+            "Name": "College",
+            "Accessible": true,
+            "Coordinates": [
+                103,
+                59
+            ],
+            "Neighbours": [
+                {
+                    "Name": "North York Centre",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Wellesley",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Union",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Coxwell",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Bessarion",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Don Mills",
+                    "Distance": 1
+                }
+            ]
+        },
+        {
+            "Name": "Dundas",
+            "Accessible": false,
+            "Coordinates": [
+                2,
+                76
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 9
+                },
+                {
+                    "Name": "St. Clair",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Rosedale",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Greenwood",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "Queen",
+            "Accessible": true,
+            "Coordinates": [
+                121,
+                188
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Finch",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Bloor",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 5
+                },
+                {
+                    "Name": "St. Clair West",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Chester",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Donlands",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Kennedy",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Ellesmere",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Midland",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "King",
+            "Accessible": false,
+            "Coordinates": [
+                122,
+                29
+            ],
+            "Neighbours": [
+                {
+                    "Name": "North York Centre",
+                    "Distance": 5
+                },
+                {
+                    "Name": "St. Clair West",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Royal York",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Keele",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Christie",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Coxwell",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Leslie",
+                    "Distance": 5
+                }
+            ]
+        },
+        {
+            "Name": "Union",
+            "Accessible": false,
+            "Coordinates": [
+                143,
+                180
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Summerhill",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Wellesley",
+                    "Distance": 3
+                },
+                {
+                    "Name": "College",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Islington",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Old Mill",
+                    "Distance": 9
+                },
+                {
+                    "Name": "High Park",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Coxwell",
+                    "Distance": 10
+                }
+            ]
+        },
+        {
+            "Name": "St. Andrew",
+            "Accessible": true,
+            "Coordinates": [
+                88,
+                110
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Summerhill",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Osgoode",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Glencairn",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Bayview",
+                    "Distance": 3
+                }
+            ]
+        },
+        {
+            "Name": "Osgoode",
+            "Accessible": false,
+            "Coordinates": [
+                9,
+                37
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Davisville",
+                    "Distance": 6
+                },
+                {
+                    "Name": "St. Andrew",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 6
+                }
+            ]
+        },
+        {
+            "Name": "St. Patrick",
+            "Accessible": false,
+            "Coordinates": [
+                113,
+                76
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Summerhill",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Royal York",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Lawrence East",
+                    "Distance": 7
+                },
+                {
+                    "Name": "McCowan",
+                    "Distance": 7
+                }
+            ]
+        },
+        {
+            "Name": "Queen's Park",
+            "Accessible": true,
+            "Coordinates": [
+                145,
+                8
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Ossington",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Bayview",
+                    "Distance": 4
+                }
+            ]
+        },
+        {
+            "Name": "Museum",
+            "Accessible": true,
+            "Coordinates": [
+                50,
+                163
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Rosedale",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Christie",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Chester",
+                    "Distance": 3
+                }
+            ]
+        },
+        {
+            "Name": "St. George",
+            "Accessible": false,
+            "Coordinates": [
+                2,
+                4
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Finch",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Lawrence East",
+                    "Distance": 5
+                },
+                {
+                    "Name": "McCowan",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Castle Frank",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Bessarion",
+                    "Distance": 5
+                }
+            ]
+        },
+        {
+            "Name": "Spadina",
+            "Accessible": false,
+            "Coordinates": [
+                198,
+                85
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Queen",
+                    "Distance": 5
+                },
+                {
+                    "Name": "St. Andrew",
+                    "Distance": 2
+                },
+                {
+                    "Name": "St. George",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Warden",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Lawrence West",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Yorkdale",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Keele",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Christie",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Broadview",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Greenwood",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Midland",
+                    "Distance": 3
+                },
+                {
+                    "Name": "McCowan",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "Dupont",
+            "Accessible": true,
+            "Coordinates": [
+                122,
+                11
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Eglinton",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Downsview",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 4
+                }
+            ]
+        },
+        {
+            "Name": "St. Clair West",
+            "Accessible": true,
+            "Coordinates": [
+                46,
+                3
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Queen",
+                    "Distance": 8
+                },
+                {
+                    "Name": "King",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Yonge",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Chester",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Kennedy",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Don Mills",
+                    "Distance": 2
+                }
+            ]
+        },
+        {
+            "Name": "Eglinton West",
+            "Accessible": false,
+            "Coordinates": [
+                35,
+                6
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Finch",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Dundas West",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Lansdowne",
+                    "Distance": 9
+                }
+            ]
+        },
+        {
+            "Name": "Glencairn",
+            "Accessible": false,
+            "Coordinates": [
+                151,
+                91
+            ],
+            "Neighbours": [
+                {
+                    "Name": "St. Andrew",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Wilson",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Bay",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Bayview",
+                    "Distance": 3
+                }
+            ]
+        },
+        {
+            "Name": "Lawrence West",
+            "Accessible": false,
+            "Coordinates": [
+                180,
+                115
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Spadina",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Sherbourne",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Chester",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 3
+                }
+            ]
+        },
+        {
+            "Name": "Yorkdale",
+            "Accessible": false,
+            "Coordinates": [
+                124,
+                9
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Finch",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Chester",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Greenwood",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "Wilson",
+            "Accessible": false,
+            "Coordinates": [
+                93,
+                196
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Lawrence",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Glencairn",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Greenwood",
+                    "Distance": 10
+                }
+            ]
+        },
+        {
+            "Name": "Downsview",
+            "Accessible": true,
+            "Coordinates": [
+                94,
+                41
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Dupont",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Jane",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Christie",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Woodbine",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Don Mills",
+                    "Distance": 9
+                }
+            ]
+        },
+        {
+            "Name": "Kipling",
+            "Accessible": true,
+            "Coordinates": [
+                150,
+                96
+            ],
+            "Neighbours": [
+                {
+                    "Name": "North York Centre",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Dundas West",
+                    "Distance": 9
+                }
+            ]
+        },
+        {
+            "Name": "Islington",
+            "Accessible": false,
+            "Coordinates": [
+                17,
+                159
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Union",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Dufferin",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Donlands",
+                    "Distance": 5
+                }
+            ]
+        },
+        {
+            "Name": "Royal York",
+            "Accessible": false,
+            "Coordinates": [
+                148,
+                54
+            ],
+            "Neighbours": [
+                {
+                    "Name": "King",
+                    "Distance": 6
+                },
+                {
+                    "Name": "St. Patrick",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Bessarion",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "Old Mill",
+            "Accessible": true,
+            "Coordinates": [
+                80,
+                84
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Davisville",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Union",
+                    "Distance": 9
+                },
+                {
+                    "Name": "High Park",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Lansdowne",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Kennedy",
+                    "Distance": 3
+                }
+            ]
+        },
+        {
+            "Name": "Jane",
+            "Accessible": false,
+            "Coordinates": [
+                59,
+                36
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Downsview",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Dufferin",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Midland",
+                    "Distance": 6
+                }
+            ]
+        },
+        {
+            "Name": "Runnymede",
+            "Accessible": true,
+            "Coordinates": [
+                147,
+                146
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Lawrence",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Eglinton",
+                    "Distance": 4
+                },
+                {
+                    "Name": "College",
+                    "Distance": 9
+                },
+                {
+                    "Name": "King",
+                    "Distance": 6
+                },
+                {
+                    "Name": "St. Patrick",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Museum",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Dupont",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Glencairn",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Yorkdale",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Sherbourne",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 10
+                }
+            ]
+        },
+        {
+            "Name": "High Park",
+            "Accessible": true,
+            "Coordinates": [
+                13,
+                52
+            ],
+            "Neighbours": [
+                {
+                    "Name": "York Mills",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Union",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Old Mill",
+                    "Distance": 9
+                }
+            ]
+        },
+        {
+            "Name": "Keele",
+            "Accessible": false,
+            "Coordinates": [
+                98,
+                21
+            ],
+            "Neighbours": [
+                {
+                    "Name": "King",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Kennedy",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Ellesmere",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Leslie",
+                    "Distance": 2
+                }
+            ]
+        },
+        {
+            "Name": "Dundas West",
+            "Accessible": false,
+            "Coordinates": [
+                96,
+                104
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Eglinton West",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Kipling",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Christie",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Victoria Park",
+                    "Distance": 7
+                }
+            ]
+        },
+        {
+            "Name": "Lansdowne",
+            "Accessible": false,
+            "Coordinates": [
+                162,
+                161
+            ],
+            "Neighbours": [
+                {
+                    "Name": "North York Centre",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Eglinton West",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Old Mill",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Bathurst",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Woodbine",
+                    "Distance": 9
+                }
+            ]
+        },
+        {
+            "Name": "Dufferin",
+            "Accessible": false,
+            "Coordinates": [
+                97,
+                171
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Islington",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Jane",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Kennedy",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 7
+                }
+            ]
+        },
+        {
+            "Name": "Ossington",
+            "Accessible": false,
+            "Coordinates": [
+                149,
+                44
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Lawrence",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Queen's Park",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Bathurst",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Main Street",
+                    "Distance": 3
+                }
+            ]
+        },
+        {
+            "Name": "Christie",
+            "Accessible": true,
+            "Coordinates": [
+                91,
+                62
+            ],
+            "Neighbours": [
+                {
+                    "Name": "King",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Museum",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Downsview",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Dundas West",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Yonge",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Warden",
+                    "Distance": 6
+                }
+            ]
+        },
+        {
+            "Name": "Bathurst",
+            "Accessible": false,
+            "Coordinates": [
+                67,
+                5
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Bloor",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Lansdowne",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Ossington",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Bay",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Chester",
+                    "Distance": 5
+                },
+                {
+                    "Name": "McCowan",
+                    "Distance": 2
+                }
+            ]
+        },
+        {
+            "Name": "Spadina",
+            "Accessible": true,
+            "Coordinates": [
+                147,
+                18
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Queen",
+                    "Distance": 5
+                },
+                {
+                    "Name": "St. Andrew",
+                    "Distance": 2
+                },
+                {
+                    "Name": "St. George",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Warden",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Lawrence West",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Yorkdale",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Keele",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Christie",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Broadview",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Greenwood",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Midland",
+                    "Distance": 3
+                },
+                {
+                    "Name": "McCowan",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "St. George",
+            "Accessible": false,
+            "Coordinates": [
+                198,
+                44
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Finch",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Lawrence East",
+                    "Distance": 5
+                },
+                {
+                    "Name": "McCowan",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Castle Frank",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Bessarion",
+                    "Distance": 5
+                }
+            ]
+        },
+        {
+            "Name": "Bay",
+            "Accessible": true,
+            "Coordinates": [
+                13,
+                19
+            ],
+            "Neighbours": [
+                {
+                    "Name": "North York Centre",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Lawrence",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Glencairn",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Bathurst",
+                    "Distance": 5
+                }
+            ]
+        },
+        {
+            "Name": "Yonge",
+            "Accessible": false,
+            "Coordinates": [
+                10,
+                138
+            ],
+            "Neighbours": [
+                {
+                    "Name": "St. Clair West",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Christie",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 7
+                }
+            ]
+        },
+        {
+            "Name": "Sherbourne",
+            "Accessible": true,
+            "Coordinates": [
+                160,
+                15
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Lawrence West",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Victoria Park",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "Castle Frank",
+            "Accessible": true,
+            "Coordinates": [
+                130,
+                19
+            ],
+            "Neighbours": [
+                {
+                    "Name": "St. George",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Don Mills",
+                    "Distance": 9
+                }
+            ]
+        },
+        {
+            "Name": "Broadview",
+            "Accessible": true,
+            "Coordinates": [
+                195,
+                127
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Spadina",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Woodbine",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 5
+                }
+            ]
+        },
+        {
+            "Name": "Chester",
+            "Accessible": false,
+            "Coordinates": [
+                35,
+                128
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Queen",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Museum",
+                    "Distance": 3
+                },
+                {
+                    "Name": "St. Clair West",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Lawrence West",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Yorkdale",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Bathurst",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Coxwell",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Kennedy",
+                    "Distance": 5
+                }
+            ]
+        },
+        {
+            "Name": "Pape",
+            "Accessible": true,
+            "Coordinates": [
+                97,
+                167
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Finch",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Osgoode",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Glencairn",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Lawrence West",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Yorkdale",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Downsview",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Jane",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Dufferin",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Greenwood",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Main Street",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Lawrence East",
+                    "Distance": 3
+                }
+            ]
+        },
+        {
+            "Name": "Donlands",
+            "Accessible": true,
+            "Coordinates": [
+                11,
+                128
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Davisville",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Queen",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Islington",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Bayview",
+                    "Distance": 7
+                }
+            ]
+        },
+        {
+            "Name": "Greenwood",
+            "Accessible": false,
+            "Coordinates": [
+                119,
+                164
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Eglinton",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Rosedale",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Dundas",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Yorkdale",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Wilson",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 9
+                }
+            ]
+        },
+        {
+            "Name": "Coxwell",
+            "Accessible": true,
+            "Coordinates": [
+                12,
+                151
+            ],
+            "Neighbours": [
+                {
+                    "Name": "College",
+                    "Distance": 6
+                },
+                {
+                    "Name": "King",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Union",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Chester",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Victoria Park",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Kennedy",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Bessarion",
+                    "Distance": 1
+                }
+            ]
+        },
+        {
+            "Name": "Woodbine",
+            "Accessible": false,
+            "Coordinates": [
+                129,
+                47
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Finch",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Downsview",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Lansdowne",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Broadview",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 1
+                }
+            ]
+        },
+        {
+            "Name": "Main Street",
+            "Accessible": false,
+            "Coordinates": [
+                60,
+                88
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Wellesley",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Ossington",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Warden",
+                    "Distance": 5
+                }
+            ]
+        },
+        {
+            "Name": "Victoria Park",
+            "Accessible": false,
+            "Coordinates": [
+                115,
+                196
+            ],
+            "Neighbours": [
+                {
+                    "Name": "York Mills",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Dundas West",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Sherbourne",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Coxwell",
+                    "Distance": 7
+                }
+            ]
+        },
+        {
+            "Name": "Warden",
+            "Accessible": false,
+            "Coordinates": [
+                164,
+                148
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Summerhill",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Christie",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Main Street",
+                    "Distance": 5
+                }
+            ]
+        },
+        {
+            "Name": "Kennedy",
+            "Accessible": false,
+            "Coordinates": [
+                85,
+                141
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Lawrence",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Wellesley",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Queen",
+                    "Distance": 5
+                },
+                {
+                    "Name": "St. Clair West",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Old Mill",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Keele",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Dufferin",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Chester",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Coxwell",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "Kennedy",
+            "Accessible": true,
+            "Coordinates": [
+                126,
+                138
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Lawrence",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Wellesley",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Queen",
+                    "Distance": 5
+                },
+                {
+                    "Name": "St. Clair West",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Old Mill",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Keele",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Dufferin",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Chester",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Coxwell",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "Lawrence East",
+            "Accessible": true,
+            "Coordinates": [
+                75,
+                125
+            ],
+            "Neighbours": [
+                {
+                    "Name": "St. Patrick",
+                    "Distance": 7
+                },
+                {
+                    "Name": "St. George",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Pape",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Don Mills",
+                    "Distance": 10
+                }
+            ]
+        },
+        {
+            "Name": "Ellesmere",
+            "Accessible": true,
+            "Coordinates": [
+                83,
+                85
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Wellesley",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Queen",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Keele",
+                    "Distance": 7
+                }
+            ]
+        },
+        {
+            "Name": "Midland",
+            "Accessible": true,
+            "Coordinates": [
+                168,
+                119
+            ],
+            "Neighbours": [
+                {
+                    "Name": "North York Centre",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Rosedale",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Bloor",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Queen",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Jane",
+                    "Distance": 6
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 3
+                }
+            ]
+        },
+        {
+            "Name": "Scarborough Centre",
+            "Accessible": true,
+            "Coordinates": [
+                137,
+                31
+            ],
+            "Neighbours": [
+                {
+                    "Name": "King",
+                    "Distance": 7
+                },
+                {
+                    "Name": "St. Andrew",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Yorkdale",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Keele",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Dufferin",
+                    "Distance": 3
+                },
+                {
+                    "Name": "St. George",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Greenwood",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Woodbine",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 2
+                }
+            ]
+        },
+        {
+            "Name": "McCowan",
+            "Accessible": false,
+            "Coordinates": [
+                35,
+                95
+            ],
+            "Neighbours": [
+                {
+                    "Name": "St. Patrick",
+                    "Distance": 7
+                },
+                {
+                    "Name": "St. George",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Bathurst",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Spadina",
+                    "Distance": 8
+                }
+            ]
+        },
+        {
+            "Name": "Sheppard-Yonge",
+            "Accessible": true,
+            "Coordinates": [
+                28,
+                46
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Dundas",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Downsview",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Lansdowne",
+                    "Distance": 6
+                },
+                {
+                    "Name": "St. Clair West",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Runnymede",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Dufferin",
+                    "Distance": 7
+                },
+                {
+                    "Name": "St. George",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Yonge",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Broadview",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Coxwell",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Scarborough Centre",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Bayview",
+                    "Distance": 1
+                }
+            ]
+        },
+        {
+            "Name": "Bayview",
+            "Accessible": true,
+            "Coordinates": [
+                130,
+                127
+            ],
+            "Neighbours": [
+                {
+                    "Name": "St. Andrew",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Queen's Park",
+                    "Distance": 4
+                },
+                {
+                    "Name": "Glencairn",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Donlands",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Sheppard-Yonge",
+                    "Distance": 1
+                }
+            ]
+        },
+        {
+            "Name": "Bessarion",
+            "Accessible": false,
+            "Coordinates": [
+                147,
+                55
+            ],
+            "Neighbours": [
+                {
+                    "Name": "York Mills",
+                    "Distance": 3
+                },
+                {
+                    "Name": "Summerhill",
+                    "Distance": 3
+                },
+                {
+                    "Name": "College",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Royal York",
+                    "Distance": 8
+                },
+                {
+                    "Name": "St. George",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Coxwell",
+                    "Distance": 1
+                },
+                {
+                    "Name": "Don Mills",
+                    "Distance": 1
+                }
+            ]
+        },
+        {
+            "Name": "Leslie",
+            "Accessible": false,
+            "Coordinates": [
+                174,
+                82
+            ],
+            "Neighbours": [
+                {
+                    "Name": "King",
+                    "Distance": 5
+                },
+                {
+                    "Name": "Keele",
+                    "Distance": 2
+                }
+            ]
+        },
+        {
+            "Name": "Don Mills",
+            "Accessible": false,
+            "Coordinates": [
+                173,
+                7
+            ],
+            "Neighbours": [
+                {
+                    "Name": "Lawrence",
+                    "Distance": 7
+                },
+                {
+                    "Name": "Summerhill",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Rosedale",
+                    "Distance": 8
+                },
+                {
+                    "Name": "Bloor",
+                    "Distance": 10
+                },
+                {
+                    "Name": "College",
+                    "Distance": 1
+                },
+                {
+                    "Name": "St. Clair West",
+                    "Distance": 2
+                },
+                {
+                    "Name": "Downsview",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Castle Frank",
+                    "Distance": 9
+                },
+                {
+                    "Name": "Lawrence East",
+                    "Distance": 10
+                },
+                {
+                    "Name": "Bessarion",
+                    "Distance": 1
+                }
+            ]
+        }
+    ]
+}

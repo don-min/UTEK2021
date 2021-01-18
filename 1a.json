@@ -1,0 +1,283 @@
+{
+    "Nodes": [
+        {
+            "Name": "Finch",
+            "Accessible": false,
+            "Neighbours": [
+                "Christie",
+                "Sheppard-Yonge",
+                "Ossington"
+            ]
+        },
+        {
+            "Name": "North York Centre",
+            "Accessible": true,
+            "Neighbours": [
+                "Chester",
+                "St. George",
+                "St. Clair West",
+                "Lansdowne"
+            ]
+        },
+        {
+            "Name": "Sheppard-Yonge",
+            "Accessible": false,
+            "Neighbours": [
+                "Sheppard-Yonge"
+            ]
+        },
+        {
+            "Name": "York Mills",
+            "Accessible": true,
+            "Neighbours": [
+                "Dundas",
+                "Osgoode"
+            ]
+        },
+        {
+            "Name": "Lawrence",
+            "Accessible": true,
+            "Neighbours": [
+                "Rosedale"
+            ]
+        },
+        {
+            "Name": "Eglinton",
+            "Accessible": true,
+            "Neighbours": []
+        },
+        {
+            "Name": "Davisville",
+            "Accessible": false,
+            "Neighbours": [
+                "Summerhill",
+                "High Park"
+            ]
+        },
+        {
+            "Name": "St. Clair",
+            "Accessible": true,
+            "Neighbours": []
+        },
+        {
+            "Name": "Summerhill",
+            "Accessible": true,
+            "Neighbours": [
+                "Museum"
+            ]
+        },
+        {
+            "Name": "Rosedale",
+            "Accessible": true,
+            "Neighbours": [
+                "Royal York",
+                "Don Mills",
+                "Eglinton West"
+            ]
+        },
+        {
+            "Name": "Bloor",
+            "Accessible": true,
+            "Neighbours": [
+                "York Mills",
+                "Queen",
+                "Union",
+                "Summerhill"
+            ]
+        },
+        {
+            "Name": "Wellesley",
+            "Accessible": false,
+            "Neighbours": [
+                "Main Street"
+            ]
+        },
+        {
+            "Name": "College",
+            "Accessible": true,
+            "Neighbours": [
+                "York Mills"
+            ]
+        },
+        {
+            "Name": "Dundas",
+            "Accessible": false,
+            "Neighbours": [
+                "Ellesmere",
+                "Midland",
+                "Scarborough Centre"
+            ]
+        },
+        {
+            "Name": "Queen",
+            "Accessible": true,
+            "Neighbours": [
+                "St. Patrick",
+                "Warden",
+                "Finch",
+                "Glencairn"
+            ]
+        },
+        {
+            "Name": "King",
+            "Accessible": false,
+            "Neighbours": [
+                "St. George",
+                "Spadina",
+                "Midland",
+                "Castle Frank"
+            ]
+        },
+        {
+            "Name": "Union",
+            "Accessible": true,
+            "Neighbours": [
+                "Pape",
+                "Kipling",
+                "Union"
+            ]
+        },
+        {
+            "Name": "St. Andrew",
+            "Accessible": true,
+            "Neighbours": []
+        },
+        {
+            "Name": "Osgoode",
+            "Accessible": false,
+            "Neighbours": [
+                "Osgoode",
+                "Jane",
+                "Pape"
+            ]
+        },
+        {
+            "Name": "St. Patrick",
+            "Accessible": false,
+            "Neighbours": []
+        },
+        {
+            "Name": "Queen's Park",
+            "Accessible": false,
+            "Neighbours": [
+                "Scarborough Centre",
+                "Leslie",
+                "Ossington",
+                "St. Andrew"
+            ]
+        },
+        {
+            "Name": "Museum",
+            "Accessible": false,
+            "Neighbours": [
+                "Glencairn",
+                "Queen's Park"
+            ]
+        },
+        {
+            "Name": "St. George",
+            "Accessible": true,
+            "Neighbours": []
+        },
+        {
+            "Name": "Spadina",
+            "Accessible": true,
+            "Neighbours": [
+                "McCowan",
+                "Islington"
+            ]
+        },
+        {
+            "Name": "Dupont",
+            "Accessible": false,
+            "Neighbours": [
+                "Dupont"
+            ]
+        },
+        {
+            "Name": "St. Clair West",
+            "Accessible": true,
+            "Neighbours": [
+                "Old Mill",
+                "York Mills",
+                "Old Mill",
+                "Spadina"
+            ]
+        },
+        {
+            "Name": "Eglinton West",
+            "Accessible": false,
+            "Neighbours": [
+                "Pape",
+                "Woodbine",
+                "Lawrence",
+                "Summerhill"
+            ]
+        },
+        {
+            "Name": "Glencairn",
+            "Accessible": false,
+            "Neighbours": []
+        },
+        {
+            "Name": "Lawrence West",
+            "Accessible": false,
+            "Neighbours": []
+        },
+        {
+            "Name": "Yorkdale",
+            "Accessible": true,
+            "Neighbours": []
+        },
+        {
+            "Name": "Wilson",
+            "Accessible": true,
+            "Neighbours": [
+                "Kipling",
+                "Donlands",
+                "Bay"
+            ]
+        },
+        {
+            "Name": "Downsview",
+            "Accessible": true,
+            "Neighbours": []
+        },
+        {
+            "Name": "Kipling",
+            "Accessible": true,
+            "Neighbours": []
+        },
+        {
+            "Name": "Islington",
+            "Accessible": false,
+            "Neighbours": [
+                "Scarborough Centre",
+                "Dundas"
+            ]
+        },
+        {
+            "Name": "Royal York",
+            "Accessible": false,
+            "Neighbours": [
+                "Chester"
+            ]
+        },
+        {
+            "Name": "Old Mill",
+            "Accessible": true,
+            "Neighbours": [
+                "Kennedy",
+                "Dufferin",
+                "Eglinton"
+            ]
+        },
+        {
+            "Name": "Jane",
+            "Accessible": true,
+            "Neighbours": [
+                "Queen"
+            ]
+        }
+    ]
+}
